@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# RL outputs (generated)
+PPO_logs/
+PPO_preTrained/
+PPO_figs/
+
+# Models
+*.pth
+*.pt
